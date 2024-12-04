@@ -1,7 +1,5 @@
 <div align="center">
-  <br />
-   
-  <br />
+
 
  
   <h3 align="center">Paragon</h3>
